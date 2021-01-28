@@ -13,7 +13,7 @@
 - [ ] April 8th, In-class Group Work
 - [ ] April 15th, Build Process and Deployment, Go-to-market kit
 - [ ] April 22nd, Testing, User Acceptance Testing
-- [ ] April 29th, space for flexing
+- [ ] April 29th, space for flexing, Google Spreadsheet
 - [ ] May 6th, GPS, Final Project - Hide n’ Bounty
 - [ ] May 13th, Beacon, Final Project - Hide n’ Bounty
 - [ ] May 20th, Demo Day, Final Interview
