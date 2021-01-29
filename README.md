@@ -3,7 +3,7 @@
 - [ ] January 28th, Intro to Mobile Landscape & Review, 2 Truths and a Lie
 - [ ] February 4th, Modern JS, Javascript Fetch w/ RWD
 - [ ] February 11th, Libraries, Bootstrap Mobile Friendly
-- [ ]February 18th, Angular I, Company of Heroes
+- [ ] February 18th, Angular I, Company of Heroes
 - [ ] February 25th, Angular II, App Review
 - [ ] March 4th, Angular III, App Presentation
 - [ ] March 11th, Intro To Ionic, Master/Detail
