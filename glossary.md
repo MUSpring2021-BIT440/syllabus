@@ -26,3 +26,6 @@ used by native apps.
 A native mobile app is one that is written in a programming language of the mobile
 operating system. At this time, that would be Objective-C or Swift for iOS and Java or
 Kotlin for Android.
+
+## SEO
+*Search Engine Optimization* <desc goes here>
