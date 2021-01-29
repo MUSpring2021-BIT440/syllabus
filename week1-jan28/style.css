@@ -1,0 +1,26 @@
+p {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+}
+
+body {
+    background-color: #f1f1f1;
+    width: 600px;
+    margin: 0 auto;
+}
+
+p#first {
+   color: goldenrod; 
+}
+
+#second {
+    color: fuchsia;
+}
+
+div p.text {
+    font-family: cursive sans-serif serif;
+}
