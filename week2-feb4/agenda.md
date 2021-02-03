@@ -32,3 +32,11 @@
 - Site should be responsive 
     - Display the three options in a row on large screen sizes
     - Display the options stacked on top of each other on smaller devices
+    
+### Bootstrap 5 Responsive Video
+
+Please watch the following video in preparation for our next class. It will walk 
+you through the basics of Bootstrap, a front-end framework that allows you to build 
+snazzy sites VERY quickly. 
+
+[Bootstrap 5 Responsive Tutorial](https://www.youtube.com/watch?v=Dr2rfJTnPBI)
