@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Women's Basketball",
+    "gender": "female",
+    "stadium": "Wikert Event Center"
+  },
+  {
+    "name": "Men's Basketball",
+    "gender": "male",
+    "stadium": "Wikert Event Center"
+  },
+  {
+    "name": "Baseball",
+    "gender": "female",
+    "stadium": "Mueller Field"
+  },
+  {
+    "name": "Softball",
+    "gender": "female",
+    "stadium": "Mueller Field"
+  },
+  {
+    "name": "Women's Bowling",
+    "gender": "female",
+    "stadium": "30 Bowl"
+  },
+  {
+    "name": "Men's Bowling",
+    "gender": "male",
+    "stadium": "30 Bowl"
+  },
+  {
+    "name": "Women's Golf",
+    "gender": "female",
+    "stadium": "Fremont Country Club"
+  },
+  {
+    "name": "Men's Golf",
+    "gender": "male",
+    "stadium": "Fremont Country Club"
+  },
+  {
+    "name": "Football",
+    "gender": "male",
+    "stadium": "Heedum Field"
+  },
+  {
+    "name": "Women's Soccer",
+    "gender": "female",
+    "stadium": "heedum Field"
+  },
+  {
+    "name": "Lacross",
+    "gender": "female",
+    "stadium": "Heedum Field"
+  }
+]
