@@ -1,7 +1,7 @@
 # BIT440 Mobile Applications
 
 - [X] January 28th, Intro to Mobile Landscape & Review, mobile app mind map
-- [ ] February 4th, Events/Loops/Function/Methods, RWD Two Truths and a Lie
+- [X] February 4th, Events/Loops/Function/Methods, RWD Two Truths and a Lie
 - [ ] February 11th, Javascript Fetch, Libraries, Bootstrap Mobile Friendly
 - [ ] February 18th, Angular I, Company of Heroes
 - [ ] February 25th, Angular II, App Review
