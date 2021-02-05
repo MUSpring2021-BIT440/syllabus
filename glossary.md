@@ -29,3 +29,8 @@ Kotlin for Android.
 
 ## SEO
 *Search Engine Optimization* <desc goes here>
+
+## Ctl + Alt + O
+
+Shortcut for opening files from VS Code to the default web browser if you have the
+`Open` extension installed.

@@ -1,23 +1,28 @@
 # agenda
 
 - Go over the following javascript basics
-    - loops
+    - [X] loops
         - loop over an array of items and access property
-    - functions
+    - [X] functions
         - create function for checking if an item is true/false
-    - methods
+    - [X] methods
         - have one of the items do something
         - use `this` to access own properties
-    - event
+    - [X] event
         - eventlistener to click/keydown 
+    - [X] DOM
 - Review ES6 array methods
-    - each
-    - find
-    - map
+    - each [x]
+    - find [x]
+    - map 
     - filter
 - Overview media queries and common screen sizes
 
 ## Project 
+
+### Github Avatar
+
+- Update your github avatar to something unique!
 
 ### Two Truths and a Lie (in class)
 
@@ -30,9 +35,9 @@
 - The truth will have a class added to it that makes it have a drop-shadow
 
 - Site should be responsive 
-    - Display the three options in a row on large screen sizes
-    - Display the options stacked on top of each other on smaller devices
-    
+    - Make some modification to your site between desktop and mobile screensize
+        - Examples: change background color, text color, font size, etc 
+
 ### Bootstrap 5 Responsive Video
 
 Please watch the following video in preparation for our next class. It will walk 

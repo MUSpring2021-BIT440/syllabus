@@ -1,0 +1,22 @@
+/* This is the base style that will be 
+applied if no other media queries match */
+body {
+    background-color: blue;
+}
+
+/* Media query */
+
+/* This is going to target devices 0px to 499px */
+@media (max-width: 500px) {
+    body {
+        background-color: red;
+        font-size: 2em;
+    }
+}
+
+/* This is going to target devices 700px and up */
+@media (min-width: 700px) {
+    body {
+        background-color: green;
+    }
+}
