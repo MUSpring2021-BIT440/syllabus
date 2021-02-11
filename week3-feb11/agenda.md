@@ -2,6 +2,7 @@
 
 - Bootstrap
   - Grid
+    - Flexbox
   - Columns
   - Widths
   - Components
