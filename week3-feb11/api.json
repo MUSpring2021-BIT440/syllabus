@@ -1,186 +1,162 @@
-Api docs
-Plans
-Contact
-Login
-rss to json online converter
-
-Enter the URL to your RSS feed
-
-https://www.midlandathletics.com/rss.php
-×
-Advanced options
-API call : https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.midlandathletics.com%2Frss.php
-
 {
-"status": "ok"
-"feed": {
-"url": "https://www.midlandathletics.com/rss.php"
-"title": "Midland University - News"
-"link": "http://www.midlandathletics.com/"
-"author": ""
-"description": "news from the Midland website"
-"image": ""
-}
-"items": [
-{
-"title": "[Midland] Midland Announces Updated Attendance Policy (1/4/2020)"
-"pubDate": "2021-01-04 17:45:00"
-"link": "http://www.midlandathletics.com/article/5825.php"
-"guid": "http://www.midlandathletics.com/article/5825.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/Jan4_Attendance-01.jpg"
-"description": " <p>FREMONT, Neb. – Midland University has announced updates to their attendance policy for all home athletic events. Families of participating athletes will be permitted via a pass list. For events held inside Wikert Event Center, opposing teams will be allowed to have family members in attendance through a pass list system (via opposing schools) and Midland students will be allowed to attend with their student ID. Attendance policies at venues off-campus will remain unchanged.</p> <p>Visit <a href="http://www.midlandathletics.com/FanInformation">www.MidlandAthletics.com/FanInformation</a> for more details and further updates.</p> <p>At this time, attendance will not be open to the general public. We will continue to evaluate our policies throughout the athletic year.</p> <p>Tickets purchased online for upcoming games will be refunded.</p> "
-"content": " <p>FREMONT, Neb. – Midland University has announced updates to their attendance policy for all home athletic events. Families of participating athletes will be permitted via a pass list. For events held inside Wikert Event Center, opposing teams will be allowed to have family members in attendance through a pass list system (via opposing schools) and Midland students will be allowed to attend with their student ID. Attendance policies at venues off-campus will remain unchanged.</p> <p>Visit <a href="http://www.midlandathletics.com/FanInformation">www.MidlandAthletics.com/FanInformation</a> for more details and further updates.</p> <p>At this time, attendance will not be open to the general public. We will continue to evaluate our policies throughout the athletic year.</p> <p>Tickets purchased online for upcoming games will be refunded.</p> "
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/Jan4_Attendance-01.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/Jan4_Attendance-01.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Dance] Warriors Continue to Improve Routine; Defeat Grand View"
-"pubDate": "2021-02-11 18:20:00"
-"link": "http://www.midlandathletics.com/article/5892.php"
-"guid": "http://www.midlandathletics.com/article/5892.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/DANCEvsGrandView.jpg"
-"description": "<p>SIOUX CITY, Iowa – Midland University Dance competed in a neutral site dual against Grand View University. The Warriors came away with a score of 87.10, besting the Vikings who received a score of 82.75 from the judges.</p>"
-"content": "<p>SIOUX CITY, Iowa – Midland University Dance competed in a neutral site dual against Grand View University. The Warriors came away with a score of 87.10, besting the Vikings who received a score of 82.75 from the judges.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/DANCEvsGrandView.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/DANCEvsGrandView.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Cheer] Warriors Earns Highest Score of Season; Defeat Vikings"
-"pubDate": "2021-02-11 18:20:00"
-"link": "http://www.midlandathletics.com/article/5891.php"
-"guid": "http://www.midlandathletics.com/article/5891.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/CHEERvsGrandView.jpg"
-"description": "<p>SIOUX CITY, Iowa – Midland University Cheer competed in a neutral site dual against Grand View University on Wednesday evening in Sioux City. The Warriors were dominant in their performance, earning the victory with their highest score of the season thus far with a 90.75. The Vikings earned a score of 58.45 from the judges.</p>"
-"content": "<p>SIOUX CITY, Iowa – Midland University Cheer competed in a neutral site dual against Grand View University on Wednesday evening in Sioux City. The Warriors were dominant in their performance, earning the victory with their highest score of the season thus far with a 90.75. The Vikings earned a score of 58.45 from the judges.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/CHEERvsGrandView.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/CHEERvsGrandView.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Men's Basketball] Warriors Outduel Tigers; Win Final Home Game of Season"
-"pubDate": "2021-02-11 07:20:00"
-"link": "http://www.midlandathletics.com/article/5890.php"
-"guid": "http://www.midlandathletics.com/article/5890.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MBBvsDoane.jpg"
-"description": "<p>FREMONT, Neb. – Midland University took the court Wednesday night for their last home game of the season, facing Doane University inside Wikert Event Center. The Warriors' strong three-point shooting led them to a narrow victory over the Tigers, 75-71.</p>"
-"content": "<p>FREMONT, Neb. – Midland University took the court Wednesday night for their last home game of the season, facing Doane University inside Wikert Event Center. The Warriors' strong three-point shooting led them to a narrow victory over the Tigers, 75-71.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/MBBvsDoane.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MBBvsDoane.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Women's Basketball] Warriors Rout Tigers on Senior Night"
-"pubDate": "2021-02-11 06:20:00"
-"link": "http://www.midlandathletics.com/article/5889.php"
-"guid": "http://www.midlandathletics.com/article/5889.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WBBvsDoane.jpg"
-"description": " <p>FREMONT, Neb. - Midland University's women's basketball team dominated Doane University from start to finish with a final score of 91-55 Wednesday night.</p> <p>Midland started the first quarter slow, as Doane scored the first four points of the game. <a class="rosterProfileLink " href="http://www.midlandathletics.com/roster/18/2/13192.php">Peyton Wingert</a> led the Warriors' response, scoring four straight to pull eve. A <a class="rosterProfileLink " href="http://www.midlandathletics.com/roster/18/2/13190.php">Lexis Haase</a> three-pointer gave Midland their first lead at 7-6 and they never looked back. Midland caught fire from behind the arch knocking down four of their first five attempts from long-distance. They would close out the quarter on a 19-8 run and took a 26-14 lead. It was their largest scoring output in the opening quarter all season.</p> "
-"content": " <p>FREMONT, Neb. - Midland University's women's basketball team dominated Doane University from start to finish with a final score of 91-55 Wednesday night.</p> <p>Midland started the first quarter slow, as Doane scored the first four points of the game. <a class="rosterProfileLink " href="http://www.midlandathletics.com/roster/18/2/13192.php">Peyton Wingert</a> led the Warriors' response, scoring four straight to pull eve. A <a class="rosterProfileLink " href="http://www.midlandathletics.com/roster/18/2/13190.php">Lexis Haase</a> three-pointer gave Midland their first lead at 7-6 and they never looked back. Midland caught fire from behind the arch knocking down four of their first five attempts from long-distance. They would close out the quarter on a 19-8 run and took a 26-14 lead. It was their largest scoring output in the opening quarter all season.</p> "
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/WBBvsDoane.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WBBvsDoane.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Bowling] Warrior Men and Women Place Fourth at Mid States Collegiate"
-"pubDate": "2021-02-09 16:25:00"
-"link": "http://www.midlandathletics.com/article/5888.php"
-"guid": "http://www.midlandathletics.com/article/5888.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MidlandBowling.jpg"
-"description": "<p>WICHITA, KAN. – Midland University continued their bowling season this past weekend in Wichita, Kansas at the Mid States Collegiate Championships. The Warriors placed 4th out of 18 schools on the men's side and similarly placed 4th out of 15 schools on the women's side.</p>"
-"content": "<p>WICHITA, KAN. – Midland University continued their bowling season this past weekend in Wichita, Kansas at the Mid States Collegiate Championships. The Warriors placed 4th out of 18 schools on the men's side and similarly placed 4th out of 15 schools on the women's side.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/MidlandBowling.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MidlandBowling.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Men's Wrestling] Warriors Take to the Mat at Sioux City Open; Aranda Wins Division"
-"pubDate": "2021-02-08 19:55:00"
-"link": "http://www.midlandathletics.com/article/5887.php"
-"guid": "http://www.midlandathletics.com/article/5887.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MWRatSiouxCityOpen.jpg"
-"description": "<p>SIOUX CITY, Iowa – Midland University's men's wrestling made the trip to the Sioux City Open on Saturday to compete against an onslaught of Great Plains Athletic Conference foes.</p>"
-"content": "<p>SIOUX CITY, Iowa – Midland University's men's wrestling made the trip to the Sioux City Open on Saturday to compete against an onslaught of Great Plains Athletic Conference foes.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/MWRatSiouxCityOpen.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MWRatSiouxCityOpen.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Women's Hockey] Late Goal Derails Warriors Attempt for Split with No. 2 Minot State"
-"pubDate": "2021-02-07 08:25:00"
-"link": "http://www.midlandathletics.com/article/5885.php"
-"guid": "http://www.midlandathletics.com/article/5885.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WHKYvsMinotState2.jpg"
-"description": "<p>FREMONT, Neb. – No. 5-ranked Midland University completed a four-weekend homestand with a pair of games against No. 2-ranked Minot State University on Friday and Saturday. The Warriors dropped the opener 4-1 on Friday and then lost a tough one, 3-2, on Saturday.</p>"
-"content": "<p>FREMONT, Neb. – No. 5-ranked Midland University completed a four-weekend homestand with a pair of games against No. 2-ranked Minot State University on Friday and Saturday. The Warriors dropped the opener 4-1 on Friday and then lost a tough one, 3-2, on Saturday.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/WHKYvsMinotState2.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WHKYvsMinotState2.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Men's Hockey] Shorthanded Warriors Suffer Pair of Setbacks to Minot State"
-"pubDate": "2021-02-07 08:25:00"
-"link": "http://www.midlandathletics.com/article/5886.php"
-"guid": "http://www.midlandathletics.com/article/5886.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MHKYvsMinotState.jpg"
-"description": "<p>FREMONT, Neb. – Playing with a handful of players out due to injury and others competing with minor ailments, Midland University fell to Minot State University in a pair of home games over the weekend. The Beavers bested the Warriors 4-0 on Friday and 6-3 on Saturday.</p>"
-"content": "<p>FREMONT, Neb. – Playing with a handful of players out due to injury and others competing with minor ailments, Midland University fell to Minot State University in a pair of home games over the weekend. The Beavers bested the Warriors 4-0 on Friday and 6-3 on Saturday.</p>"
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/MHKYvsMinotState.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MHKYvsMinotState.jpg"
-}
-"categories": [
-]
-}
-{
-"title": "[Swimming] Warrior Men Repeat as KCAC Champs, Women Earn Runner-Up Honors"
-"pubDate": "2021-02-07 08:20:00"
-"link": "http://www.midlandathletics.com/article/5884.php"
-"guid": "http://www.midlandathletics.com/article/5884.php"
-"author": "braun@midlandu.edu (Jeff Braun)"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/SWIMatKCACChamps.jpg"
-"description": " <p>FREMONT, Neb. – Midland University's men's and women's swimming teams wrapped up the three-day Kansas Collegiate Athletic Conference (KCAC) Championship meet on Saturday with impressive individual and team accomplishments on both sides.</p> <p>The women finished as conference runners-up while the men defended their championship title from last year with a first-place finish.</p> "
-"content": " <p>FREMONT, Neb. – Midland University's men's and women's swimming teams wrapped up the three-day Kansas Collegiate Athletic Conference (KCAC) Championship meet on Saturday with impressive individual and team accomplishments on both sides.</p> <p>The women finished as conference runners-up while the men defended their championship title from last year with a first-place finish.</p> "
-"enclosure": {
-"link": "http://www.midlandathletics.com/images/2020-21/SWIMatKCACChamps.jpg"
-"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/SWIMatKCACChamps.jpg"
-}
-"categories": [
-]
-}
-]
+	"status": "ok",
+	"feed": {
+		"url": "https://www.midlandathletics.com/rss.php",
+		"title": "Midland University - News",
+		"link": "http://www.midlandathletics.com/",
+		"author": "",
+		"description": "news from the Midland website",
+		"image": ""
+	},
+	"items": [{
+			"title": "[Midland] Midland Announces Updated Attendance Policy (1/4/2020)",
+			"pubDate": "2021-01-04 17:45:00",
+			"link": "http://www.midlandathletics.com/article/5825.php",
+			"guid": "http://www.midlandathletics.com/article/5825.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/Jan4_Attendance-01.jpg",
+			"description": "\n<p>FREMONT, Neb. – Midland University has announced updates to their attendance policy for all home athletic events. Families of participating athletes will be permitted via a pass list. For events held inside Wikert Event Center, opposing teams will be allowed to have family members in attendance through a pass list system (via opposing schools) and Midland students will be allowed to attend with their student ID. Attendance policies at venues off-campus will remain unchanged.</p>\n<p>Visit <a href=\"http://www.midlandathletics.com/FanInformation\">www.MidlandAthletics.com/FanInformation</a> for more details and further updates.</p>\n<p>At this time, attendance will not be open to the general public. We will continue to evaluate our policies throughout the athletic year.</p>\n<p>Tickets purchased online for upcoming games will be refunded.</p>\n",
+			"content": "\n<p>FREMONT, Neb. – Midland University has announced updates to their attendance policy for all home athletic events. Families of participating athletes will be permitted via a pass list. For events held inside Wikert Event Center, opposing teams will be allowed to have family members in attendance through a pass list system (via opposing schools) and Midland students will be allowed to attend with their student ID. Attendance policies at venues off-campus will remain unchanged.</p>\n<p>Visit <a href=\"http://www.midlandathletics.com/FanInformation\">www.MidlandAthletics.com/FanInformation</a> for more details and further updates.</p>\n<p>At this time, attendance will not be open to the general public. We will continue to evaluate our policies throughout the athletic year.</p>\n<p>Tickets purchased online for upcoming games will be refunded.</p>\n",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/Jan4_Attendance-01.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/Jan4_Attendance-01.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Dance] Warriors Continue to Improve Routine; Defeat Grand View",
+			"pubDate": "2021-02-11 18:20:00",
+			"link": "http://www.midlandathletics.com/article/5892.php",
+			"guid": "http://www.midlandathletics.com/article/5892.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/DANCEvsGrandView.jpg",
+			"description": "<p>SIOUX CITY, Iowa – Midland University Dance competed in a neutral site dual against Grand View University. The Warriors came away with a score of 87.10, besting the Vikings who received a score of 82.75 from the judges.</p>",
+			"content": "<p>SIOUX CITY, Iowa – Midland University Dance competed in a neutral site dual against Grand View University. The Warriors came away with a score of 87.10, besting the Vikings who received a score of 82.75 from the judges.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/DANCEvsGrandView.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/DANCEvsGrandView.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Cheer] Warriors Earns Highest Score of Season; Defeat Vikings",
+			"pubDate": "2021-02-11 18:20:00",
+			"link": "http://www.midlandathletics.com/article/5891.php",
+			"guid": "http://www.midlandathletics.com/article/5891.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/CHEERvsGrandView.jpg",
+			"description": "<p>SIOUX CITY, Iowa – Midland University Cheer competed in a neutral site dual against Grand View University on Wednesday evening in Sioux City. The Warriors were dominant in their performance, earning the victory with their highest score of the season thus far with a 90.75. The Vikings earned a score of 58.45 from the judges.</p>",
+			"content": "<p>SIOUX CITY, Iowa – Midland University Cheer competed in a neutral site dual against Grand View University on Wednesday evening in Sioux City. The Warriors were dominant in their performance, earning the victory with their highest score of the season thus far with a 90.75. The Vikings earned a score of 58.45 from the judges.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/CHEERvsGrandView.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/CHEERvsGrandView.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Men's Basketball] Warriors Outduel Tigers; Win Final Home Game of Season",
+			"pubDate": "2021-02-11 07:20:00",
+			"link": "http://www.midlandathletics.com/article/5890.php",
+			"guid": "http://www.midlandathletics.com/article/5890.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MBBvsDoane.jpg",
+			"description": "<p>FREMONT, Neb. – Midland University took the court Wednesday night for their last home game of the season, facing Doane University inside Wikert Event Center. The Warriors' strong three-point shooting led them to a narrow victory over the Tigers, 75-71.</p>",
+			"content": "<p>FREMONT, Neb. – Midland University took the court Wednesday night for their last home game of the season, facing Doane University inside Wikert Event Center. The Warriors' strong three-point shooting led them to a narrow victory over the Tigers, 75-71.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/MBBvsDoane.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MBBvsDoane.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Women's Basketball] Warriors Rout Tigers on Senior Night",
+			"pubDate": "2021-02-11 06:20:00",
+			"link": "http://www.midlandathletics.com/article/5889.php",
+			"guid": "http://www.midlandathletics.com/article/5889.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WBBvsDoane.jpg",
+			"description": "\n<p>FREMONT, Neb. - Midland University's women's basketball team dominated Doane University from start to finish with a final score of 91-55 Wednesday night.</p>\n<p>Midland started the first quarter slow, as Doane scored the first four points of the game. <a class=\"rosterProfileLink  \" href=\"http://www.midlandathletics.com/roster/18/2/13192.php\">Peyton Wingert</a> led the Warriors' response, scoring four straight to pull eve. A <a class=\"rosterProfileLink  \" href=\"http://www.midlandathletics.com/roster/18/2/13190.php\">Lexis Haase</a> three-pointer gave Midland their first lead at 7-6 and they never looked back. Midland caught fire from behind the arch knocking down four of their first five attempts from long-distance. They would close out the quarter on a 19-8 run and took a 26-14 lead. It was their largest scoring output in the opening quarter all season.</p>\n",
+			"content": "\n<p>FREMONT, Neb. - Midland University's women's basketball team dominated Doane University from start to finish with a final score of 91-55 Wednesday night.</p>\n<p>Midland started the first quarter slow, as Doane scored the first four points of the game. <a class=\"rosterProfileLink  \" href=\"http://www.midlandathletics.com/roster/18/2/13192.php\">Peyton Wingert</a> led the Warriors' response, scoring four straight to pull eve. A <a class=\"rosterProfileLink  \" href=\"http://www.midlandathletics.com/roster/18/2/13190.php\">Lexis Haase</a> three-pointer gave Midland their first lead at 7-6 and they never looked back. Midland caught fire from behind the arch knocking down four of their first five attempts from long-distance. They would close out the quarter on a 19-8 run and took a 26-14 lead. It was their largest scoring output in the opening quarter all season.</p>\n",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/WBBvsDoane.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WBBvsDoane.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Bowling] Warrior Men and Women Place Fourth at Mid States Collegiate",
+			"pubDate": "2021-02-09 16:25:00",
+			"link": "http://www.midlandathletics.com/article/5888.php",
+			"guid": "http://www.midlandathletics.com/article/5888.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MidlandBowling.jpg",
+			"description": "<p>WICHITA, KAN. – Midland University continued their bowling season this past weekend in Wichita, Kansas at the Mid States Collegiate Championships. The Warriors placed 4th out of 18 schools on the men's side and similarly placed 4th out of 15 schools on the women's side.</p>",
+			"content": "<p>WICHITA, KAN. – Midland University continued their bowling season this past weekend in Wichita, Kansas at the Mid States Collegiate Championships. The Warriors placed 4th out of 18 schools on the men's side and similarly placed 4th out of 15 schools on the women's side.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/MidlandBowling.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MidlandBowling.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Men's Wrestling] Warriors Take to the Mat at Sioux City Open; Aranda Wins Division",
+			"pubDate": "2021-02-08 19:55:00",
+			"link": "http://www.midlandathletics.com/article/5887.php",
+			"guid": "http://www.midlandathletics.com/article/5887.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MWRatSiouxCityOpen.jpg",
+			"description": "<p>SIOUX CITY, Iowa – Midland University's men's wrestling made the trip to the Sioux City Open on Saturday to compete against an onslaught of Great Plains Athletic Conference foes.</p>",
+			"content": "<p>SIOUX CITY, Iowa – Midland University's men's wrestling made the trip to the Sioux City Open on Saturday to compete against an onslaught of Great Plains Athletic Conference foes.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/MWRatSiouxCityOpen.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MWRatSiouxCityOpen.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Women's Hockey] Late Goal Derails Warriors Attempt for Split with No. 2 Minot State",
+			"pubDate": "2021-02-07 08:25:00",
+			"link": "http://www.midlandathletics.com/article/5885.php",
+			"guid": "http://www.midlandathletics.com/article/5885.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WHKYvsMinotState2.jpg",
+			"description": "<p>FREMONT, Neb. – No. 5-ranked Midland University completed a four-weekend homestand with a pair of games against No. 2-ranked Minot State University on Friday and Saturday. The Warriors dropped the opener 4-1 on Friday and then lost a tough one, 3-2, on Saturday.</p>",
+			"content": "<p>FREMONT, Neb. – No. 5-ranked Midland University completed a four-weekend homestand with a pair of games against No. 2-ranked Minot State University on Friday and Saturday. The Warriors dropped the opener 4-1 on Friday and then lost a tough one, 3-2, on Saturday.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/WHKYvsMinotState2.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/WHKYvsMinotState2.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Men's Hockey] Shorthanded Warriors Suffer Pair of Setbacks to Minot State",
+			"pubDate": "2021-02-07 08:25:00",
+			"link": "http://www.midlandathletics.com/article/5886.php",
+			"guid": "http://www.midlandathletics.com/article/5886.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MHKYvsMinotState.jpg",
+			"description": "<p>FREMONT, Neb. – Playing with a handful of players out due to injury and others competing with minor ailments, Midland University fell to Minot State University in a pair of home games over the weekend. The Beavers bested the Warriors 4-0 on Friday and 6-3 on Saturday.</p>",
+			"content": "<p>FREMONT, Neb. – Playing with a handful of players out due to injury and others competing with minor ailments, Midland University fell to Minot State University in a pair of home games over the weekend. The Beavers bested the Warriors 4-0 on Friday and 6-3 on Saturday.</p>",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/MHKYvsMinotState.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/MHKYvsMinotState.jpg"
+			},
+			"categories": []
+		},
+		{
+			"title": "[Swimming] Warrior Men Repeat as KCAC Champs, Women Earn Runner-Up Honors",
+			"pubDate": "2021-02-07 08:20:00",
+			"link": "http://www.midlandathletics.com/article/5884.php",
+			"guid": "http://www.midlandathletics.com/article/5884.php",
+			"author": "braun@midlandu.edu (Jeff Braun)",
+			"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/SWIMatKCACChamps.jpg",
+			"description": "\n<p>FREMONT, Neb. – Midland University's men's and women's swimming teams wrapped up the three-day Kansas Collegiate Athletic Conference (KCAC) Championship meet on Saturday with impressive individual and team accomplishments on both sides.</p>\n<p>The women finished as conference runners-up while the men defended their championship title from last year with a first-place finish.</p>\n",
+			"content": "\n<p>FREMONT, Neb. – Midland University's men's and women's swimming teams wrapped up the three-day Kansas Collegiate Athletic Conference (KCAC) Championship meet on Saturday with impressive individual and team accomplishments on both sides.</p>\n<p>The women finished as conference runners-up while the men defended their championship title from last year with a first-place finish.</p>\n",
+			"enclosure": {
+				"link": "http://www.midlandathletics.com/images/2020-21/SWIMatKCACChamps.jpg",
+				"thumbnail": "http://www.midlandathletics.com/images/2020-21/_thumb/SWIMatKCACChamps.jpg"
+			},
+			"categories": []
+		}
+	]
 }
