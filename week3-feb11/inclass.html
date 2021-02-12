@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap</title>
+    
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <style>
+        #flexbox-parent {
+            display: flex;
+        }
+
+        .flexbox-child {
+            width: 100px;
+            height: 100px;
+        }
+
+        #flexbox-1 { background-color: red; }
+        #flexbox-2 { background-color: blue; }
+        #flexbox-3 { background-color: green; }
+        #flexbox-4 { background-color: goldenrod; }
+
+    </style>
+
+</head>
+<body>
+
+    <div class="container">
+        <!-- Content here -->
+        <div class="row">
+            <div class="col-sm">
+                One of three columns
+            </div>
+            <div class="col-sm">
+                One of three columns
+            </div>
+            <div class="col-sm">
+                One of three columns
+            </div>
+        </div>
+
+        <!-- specify unit width of a single column -->
+        <div class="row">
+            <div class="col">
+                1 of 3
+            </div>
+            <div class="col-6">
+                2 of 3 (wider)
+            </div>
+            <div class="col">
+                3 of 3
+            </div>
+        </div>
+
+        <!-- at extra small viewports, this will be stacked vertically -->
+        <!-- at small and larger viewports, it will be an 8/4 -->
+        <div class="row">
+            <div class="col-sm-8">col-sm-8</div>
+            <div class="col-sm-4">col-sm-4</div>
+        </div>
+
+    </div> <!-- /container -->
+
+    <div class='container'>
+        <h2>Flexbox</h2>
+
+        <div id='flexbox-parent'>
+            <div id='flexbox-1' class='flexbox-child'></div>
+            <div id='flexbox-2' class='flexbox-child'></div>
+            <div id='flexbox-3' class='flexbox-child'></div>
+            <div id='flexbox-4' class='flexbox-child'></div>
+        </div>
+    </div>
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+</body>
+</html>
