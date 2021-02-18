@@ -17,3 +17,5 @@
 - [ ] May 6th, GPS, Final Project - Hide n’ Bounty
 - [ ] May 13th, Beacon, Final Project - Hide n’ Bounty
 - [ ] May 20th, Demo Day, Final Interview
+
+Base Url for this repo: https://muspring2021-bit440.github.io/syllabus/
