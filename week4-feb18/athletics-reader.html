@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Examples</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+
+    <style>
+        .header-logo {
+            width: 50px;
+        }
+
+        h1 {
+            font-size: 1.4em;
+            color: #444444;
+        }
+
+        @media screen and (min-width: 992px) {
+            body {
+                color: red;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Image and text -->
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand d-none d-sm-block" href="#">
+                Midland Atheltics Tracker
+            </a>
+            <img src='https://www.midlandu.edu/sites/default/files/resize/victory%20bell%20icon-150x150.png' class="header-logo d-sm-none" />
+
+            <form class="d-flex">
+                <select id='sport' class="form-select" aria-label="Select a sport">
+                    <option selected>Select a sport...</option>
+                    <option value="6">Football</option>
+                    <option value="49">eSports</option>
+                    <option value="35">Intramurals</option>
+                </select>
+            </form>
+        </div>
+    </nav>
+
+    <div class="container">
+
+        <div id='articles' class="row d-flex justify-content-center">
+        </div>
+
+    </div>
+
+    <script>
+        var articleContainer = document.getElementById('articles')
+        var sportSelect = document.getElementById('sport');
+
+        sportSelect.addEventListener('change', updateSport)
+
+        function updateSport(event) {
+            articleContainer.innerHTML = '<p>Loading...</p>';
+
+            loadContent(event.target.value);
+        }
+
+        function loadContent(categoryId) {
+            var url = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.midlandathletics.com%2Frss.php"
+
+            if(categoryId) {
+                url += `?categoryID=${categoryId}`
+            }
+
+            fetch(url).then(function(response) {
+                return response.json();
+            }).then(function(data){
+                console.log(data.items);
+
+                var html = ''
+                data.items.forEach(function(item){
+                    html += `
+                        <div class="col-xl-3 col-md-6 col-sm-12 my-5 d-flex flex-column justify-content-between">
+                            <img class="img-responsive col-12" src="${item.thumbnail}" />
+                            <h1>${item.title}</h1>
+                            <p>${item.description.substring(0, 300)}...</p>
+
+                            <div class='d-grid'>
+                                <a href="${item.link}" class="btn btn-primary">Read more</a>
+                            </div>
+                        </div>
+                    `
+                })
+
+                articleContainer.innerHTML = html;
+
+            });
+        }
+
+        loadContent();
+
+    </script>
+
+</body>
+</html>
