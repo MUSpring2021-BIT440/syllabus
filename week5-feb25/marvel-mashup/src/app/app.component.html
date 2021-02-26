@@ -1,0 +1,16 @@
+<h1>{{ title }} app is running!</h1>
+<p>My name is {{ name }}</p>
+
+<ul id='asgardians'>
+
+  <li *ngFor="let person of asgardians">
+    {{ person }}
+  </li>
+
+</ul>
+
+<p *ngIf="name === '@TheBrockEllis'">
+  You are awesome!
+</p>
+
+<app-super-hero></app-super-hero>
