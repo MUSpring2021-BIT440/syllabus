@@ -4,9 +4,9 @@
 - [X] February 4th, Events/Loops/Function/Methods, RWD Two Truths and a Lie
 - [X] February 11th, Javascript Fetch, Libraries, Bootstrap Mobile Friendly
 - [X] February 18th, Bootstrap mobile optimized site, Angular I, Company of Heroes
-- [ ] February 25th, Angular II, Company of Heroes
-- [ ] March 4th, Angular III, App Review, App Presentation Example
-- [ ] March 11th, Intro To Ionic, Master/Detail w/ Star Wars API
+- [X] February 25th, Angular II, Company of Heroes
+- [ ] March 4th, Angular III, Intro To Ionic
+- [ ] March 11th, App Review, App Presentation Example, Master/Detail w/ Star Wars API
 - [ ] March 18th, Advanced Ionic, Sketchpad
 - [ ] March 25th, Mobile Design Patterns and Concerns, Group Project Wireframe
 - [ ] April 1st, In-class Group Work, App Presentation
